@@ -1,83 +1,83 @@
 /* No comment provided by engineer. */
-"About" = "About";
+"About" = "关于";
 
 /* No comment provided by engineer. */
-"Application will restart device's SpringBoard" = "Application will restart device's SpringBoard";
+"Application will restart device's SpringBoard" = "将会重新启动主画面";
 
 /* No comment provided by engineer. */
-"Applications" = "Applications";
+"Applications" = "应用程式";
 
 /* No comment provided by engineer. */
-"Author" = "Author";
+"Author" = "作者";
 
 /* No comment provided by engineer. */
-"Cancel" = "Cancel";
+"Cancel" = "取消";
 
 /* No comment provided by engineer. */
-"Configure & Respring" = "Configure & Respring";
+"Configure & Respring" = "设定 & 重启";
 
 /* No comment provided by engineer. */
-"Cydia Source" = "Cydia Source";
+"Cydia Source" = "Cydia 软体源";
 
 /* No comment provided by engineer. */
-"Debug" = "Debug";
+"Debug" = "除错";
 
 /* No comment provided by engineer. */
-"Donate" = "Donate";
+"Donate" = "赞助";
 
 /* No comment provided by engineer. */
-"Enable" = "Enable";
+"Enable" = "启用";
 
 /* No comment provided by engineer. */
 "Facebook" = "Facebook";
 
 /* No comment provided by engineer. */
-"General" = "General";
+"General" = "一般";
 
 /* No comment provided by engineer. */
-"Information" = "Information";
+"Information" = "资讯";
 
 /* No comment provided by engineer. */
-"Landscape" = "Landscape";
+"Auto landscape" = "自動橫向";
 
 /* No comment provided by engineer. */
-"Mirror" = "Mirror";
+"Mirror" = "镜像";
 
 /* No comment provided by engineer. */
-"Mirror all windows" = "Mirror all windows";
+"Mirror all windows" = "镜像完整画面";
 
 /* No comment provided by engineer. */
-"Mirror FPS" = "Mirror FPS";
+"Mirror FPS" = "镜象帧数";
 
 /* No comment provided by engineer. */
-"Mirror touchable" = "Mirror touchable";
+"Mirror touchable" = "镜像可触碰";
 
 /* No comment provided by engineer. */
-"Mode" = "Mode";
+"Mode" = "模式";
 
 /* No comment provided by engineer. */
-"Native" = "Native";
+"Native" = "原生";
 
 /* No comment provided by engineer. */
-"Native Scale" = "Native Scale";
+"Native Scale" = "原生比例";
 
 /* No comment provided by engineer. */
-"OK" = "OK";
+"OK" = "确定";
 
 /* No comment provided by engineer. */
-"Respring" = "Respring";
+"Respring" = "重启";
 
 /* No comment provided by engineer. */
-"System apps" = "System apps";
+"System apps" = "系统应用";
 
 /* No comment provided by engineer. */
-"Tweak Version" = "Tweak Version";
+"Tweak Version" = "套件版本";
 
 /* No comment provided by engineer. */
 "Twitter" = "Twitter";
 
 /* No comment provided by engineer. */
-"User apps" = "User apps";
+"User apps" = "使用者应用";
 
 /* No comment provided by engineer. */
-"Version" = "Version";
+"Version" = "版本";
