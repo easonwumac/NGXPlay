@@ -1,54 +1,83 @@
+/* No comment provided by engineer. */
+"About" = "About";
 
 /* No comment provided by engineer. */
-"Applications" = "應用列表";
+"Application will restart device's SpringBoard" = "Application will restart device's SpringBoard";
 
 /* No comment provided by engineer. */
-"Cancel" = "取消";
+"Applications" = "Applications";
 
 /* No comment provided by engineer. */
-"Configure & Respring" = "設定並重啟";
+"Author" = "Author";
 
 /* No comment provided by engineer. */
-"Continue will save configure and reload on all application" = "將會儲存設定並且重新啟動主畫面";
+"Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
-"Enable" = "啟用";
+"Configure & Respring" = "Configure & Respring";
 
 /* No comment provided by engineer. */
-"General" = "一般";
+"Cydia Source" = "Cydia Source";
 
 /* No comment provided by engineer. */
-"Landscape" = "橫置";
+"Debug" = "Debug";
 
 /* No comment provided by engineer. */
-"Mirror" = "鏡像";
+"Donate" = "Donate";
 
 /* No comment provided by engineer. */
-"Mirror all windows" = "鏡像所有視窗";
+"Enable" = "Enable";
 
 /* No comment provided by engineer. */
-"Mirror FPS" = "鏡像幀數";
+"Facebook" = "Facebook";
 
 /* No comment provided by engineer. */
-"Mode" = "模式";
+"General" = "General";
 
 /* No comment provided by engineer. */
-"Native" = "原生";
+"Information" = "Information";
 
 /* No comment provided by engineer. */
-"Native Scale" = "原生比例";
+"Landscape" = "Landscape";
 
 /* No comment provided by engineer. */
-"OK" = "確認";
+"Mirror" = "Mirror";
 
 /* No comment provided by engineer. */
-"Respring" = "重啟主畫面";
+"Mirror all windows" = "Mirror all windows";
 
 /* No comment provided by engineer. */
-"Save Configure" = "儲存設定";
+"Mirror FPS" = "Mirror FPS";
 
 /* No comment provided by engineer. */
-"Tweak Version" = "套件版本";
+"Mirror touchable" = "Mirror touchable";
 
 /* No comment provided by engineer. */
-"Version" = "版本";
+"Mode" = "Mode";
+
+/* No comment provided by engineer. */
+"Native" = "Native";
+
+/* No comment provided by engineer. */
+"Native Scale" = "Native Scale";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Respring" = "Respring";
+
+/* No comment provided by engineer. */
+"System apps" = "System apps";
+
+/* No comment provided by engineer. */
+"Tweak Version" = "Tweak Version";
+
+/* No comment provided by engineer. */
+"Twitter" = "Twitter";
+
+/* No comment provided by engineer. */
+"User apps" = "User apps";
+
+/* No comment provided by engineer. */
+"Version" = "Version";
