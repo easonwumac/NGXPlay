@@ -1,0 +1,54 @@
+
+/* No comment provided by engineer. */
+"Applications" = "应用列表";
+
+/* No comment provided by engineer. */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Configure & Respring" = "设定并重启";
+
+/* No comment provided by engineer. */
+"Continue will save configure and reload on all application" = "将会储存设定并且重新启动主画面";
+
+/* No comment provided by engineer. */
+"Enable" = "启用";
+
+/* No comment provided by engineer. */
+"General" = "一般";
+
+/* No comment provided by engineer. */
+"Landscape" = "横置";
+
+/* No comment provided by engineer. */
+"Mirror" = "镜像";
+
+/* No comment provided by engineer. */
+"Mirror all windows" = "镜像所有视窗";
+
+/* No comment provided by engineer. */
+"Mirror FPS" = "镜像帧数";
+
+/* No comment provided by engineer. */
+"Mode" = "模式";
+
+/* No comment provided by engineer. */
+"Native" = "原生";
+
+/* No comment provided by engineer. */
+"Native Scale" = "原生比例";
+
+/* No comment provided by engineer. */
+"OK" = "确认";
+
+/* No comment provided by engineer. */
+"Respring" = "重启主画面";
+
+/* No comment provided by engineer. */
+"Save Configure" = "储存设定";
+
+/* No comment provided by engineer. */
+"Tweak Version" = "套件版本";
+
+/* No comment provided by engineer. */
+"Version" = "版本";
